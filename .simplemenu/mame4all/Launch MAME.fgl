@@ -1,0 +1,4 @@
+title=Launch MAME
+description=Launch MAME
+exec=/media/data/apps/MAME4ALL.opk
+icon=skin:icons/icon.png

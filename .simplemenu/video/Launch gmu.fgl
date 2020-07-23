@@ -1,0 +1,4 @@
+title=Launch GMU
+description=Launch GMU
+exec=/media/data/apps/gmu.opk
+icon=skin:icons/icon.png

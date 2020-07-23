@@ -1,0 +1,4 @@
+title=Launch NEO GEO CD
+description=Launch NEO GEO CD
+exec=/media/data/apps/NEO4All.opk
+icon=skin:icons/icon.png

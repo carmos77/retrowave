@@ -1,0 +1,4 @@
+title=Launch ScummVM
+description=Launch ScummVM
+exec=/media/data/apps/scummvm.opk
+icon=skin:icons/icon.png

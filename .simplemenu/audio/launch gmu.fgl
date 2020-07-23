@@ -1,0 +1,4 @@
+title=Launch GMU
+description=GMU music player
+exec=/usr/bin/gmu
+icon=skin:icons/imgv.png

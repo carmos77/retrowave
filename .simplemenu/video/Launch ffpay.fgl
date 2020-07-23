@@ -1,0 +1,4 @@
+title=Launch FFPLAY
+description=Launch FFPLAY
+exec=/media/data/apps/ffplay.opk
+icon=skin:icons/icon.png
